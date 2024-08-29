@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+## Additional Resources
+
+- Check out this [overview video on Loom](https://www.loom.com/share/6507f8390fcd4a1aa73cbc81c163c47e?sid=2f182cbd-b43d-44bf-a876-8bbc34eb1d69) for more details.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
